@@ -7,4 +7,4 @@ zelf spelen:
 - controleer of alle bestsanden goed zijn gecloned.
 - Run het bestand index.php in de terminal.
 
-veel plezier
+veel plezier!
